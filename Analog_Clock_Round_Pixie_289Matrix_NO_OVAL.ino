@@ -8,8 +8,8 @@
 #define BRIGHTNESS 120
 
 // Wi-Fi / NTP
-const char* ssid       = "NOS-EA84-Guest";
-const char* password   = "43211234";
+const char* ssid       = "SSID";
+const char* password   = "PASSWORD";
 const char* ntpServer  = "europe.pool.ntp.org";
 const long  gmtOffset_sec     = 0;
 const int   daylightOffset_sec = 0;
